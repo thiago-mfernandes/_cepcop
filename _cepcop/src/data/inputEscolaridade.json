@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "option": ""
+  },
+  {
+    "id": 2,
+    "option": "Ensino Fundamental Incompleto"
+  },
+  {
+    "id": 3,
+    "option": "Ensino Médio Incompleto"
+  },
+  {
+    "id": 4,
+    "option": "Ensino Médio Completo"
+  },
+  {
+    "id": 5,
+    "option": "Ensino Médio Incompleto"
+  },
+  {
+    "id": 6,
+    "option": "Ensino Superior Incompleto"
+  },
+  {
+    "id": 7,
+    "option": "Ensino Superior Completo"
+  },
+  {
+    "id": 8,
+    "option": "Mestrado"
+  },
+  {
+    "id": 9,
+    "option": "Doutorado"
+  },
+  {
+    "id": 10,
+    "option": "PhD"
+  }
+]

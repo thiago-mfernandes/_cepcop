@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "relacao": ""
+  },
+  {
+    "id": 2,
+    "relacao": "Cônjugue"
+  },
+  {
+    "id": 3,
+    "relacao": "Filho ou Filha"
+  },
+
+  {
+    "id": 4,
+    "relacao": "Companheiro ou Companheira"
+  },
+  {
+    "id": 5,
+    "relacao": "Pai"
+  },
+  {
+    "id": 6,
+    "relacao": "Mãe"
+  },
+  {
+    "id": 7,
+    "relacao": "Irmão ou Irmã"
+  },
+  {
+    "id": 8,
+    "relacao": "Menor Sob Guarda Judicial"
+  },
+  {
+    "id": 9,
+    "relacao": "Sogro ou Sogra"
+  },
+
+  {
+    "id": 10,
+    "relacao": "Filho(a) Inválido(a)"
+  },{
+    "id": 11,
+    "relacao": "Outros"
+  }
+]
